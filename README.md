@@ -1,5 +1,3 @@
-# Modern Todo List Application
-
 A full-stack todo list application built with React and Node.js, featuring user authentication, CRUD operations, and a responsive design.
 
 ![Todo List App Screenshot](screenshot.png)
