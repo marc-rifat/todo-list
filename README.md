@@ -1,7 +1,5 @@
 A full-stack todo list application built with React and Node.js, featuring user authentication, CRUD operations, and a responsive design.
 
-![Todo List App Screenshot](screenshot.png)
-
 ## 🚀 Features
 
 - **User Authentication**
@@ -38,13 +36,7 @@ A full-stack todo list application built with React and Node.js, featuring user 
 
 ## 🏃‍♂️ Quick Start
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/marc-rifat/todo-list.git
-   cd todo-list
-   ```
-
-2. **Install dependencies**
+1. **Install dependencies**
    ```bash
    # Install server dependencies
    cd server
@@ -55,7 +47,7 @@ A full-stack todo list application built with React and Node.js, featuring user 
    npm install
    ```
 
-3. **Start the application**
+2. **Start the application**
    ```bash
    # Start server (from server directory)
    npm start
@@ -64,8 +56,6 @@ A full-stack todo list application built with React and Node.js, featuring user 
    npm start
    ```
 
-4. **Access the application**
+3. **Access the application**
    - Frontend: http://localhost:3000
    - Backend: http://localhost:5001
-
-## �� Project Structure
